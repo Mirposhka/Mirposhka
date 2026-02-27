@@ -51,29 +51,6 @@ Salon appointment management system (C#).
 ⭐ **Home Insurance System**  
 Frontend insurance management interface.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mirpohska&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirpohska&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirpohska&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mirpohska/mirpohska/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
