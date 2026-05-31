@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir Clao</h1>
+<h1 align="center">Hi 👋, I'm Amir</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Frontend+Focused+Engineer;Laravel+%7C+Flutter+%7C+React+Developer;Building+Real-World+Applications" />
